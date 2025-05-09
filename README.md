@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, Java and Operating Systems**
 
-- 👨‍💻 All of my projects are available at [kevin-oulai.com](kevin-oulai.com)
+- 👨‍💻 All of my projects are available at [kevin-oulai.com](https://kevin-oulai.com)
 
 - 📫 How to reach me **contact@kevin-oulai.com**
 
